@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CFisher21
 - 👀 I’m interested in all forms of code, currently a student looking to learn
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 📫 How to reach me ... Email: fishercody23@gmail.com
+- 📫 How to reach me ... Email: fishercody23@gmail.com, Linkedin: https://www.linkedin.com/in/fishercody21/
 
 <!---
 CFisher21/CFisher21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
