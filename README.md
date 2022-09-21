@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CFisher21
-- 👀 I’m interested in all forms of code, currently a student looking to learn
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested Front End Development, Back End Development and Full Stack
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ... Email: fishercody23@gmail.com, Linkedin: https://www.linkedin.com/in/fishercody21/
 
 <!---
